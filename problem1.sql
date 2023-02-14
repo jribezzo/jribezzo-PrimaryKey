@@ -1,0 +1,1 @@
+CREATE TABLE Song (id INT PRIMARY KEY, title VARCHAR(35), artist VARCHAR(35));
